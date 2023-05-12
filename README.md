@@ -1,3 +1,9 @@
+# DEPRECATED
+
+The template repository for preprocessors is [https://github.com/Gravitate-Health/preprocessing-service-example](https://github.com/Gravitate-Health/preprocessing-service-example)
+
+
+
 # Gravitate Health Preprocessing service test
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -5,6 +11,7 @@
 ---
 ## Table of contents
 
+- [DEPRECATED](#deprecated)
 - [Gravitate Health Preprocessing service test](#gravitate-health-preprocessing-service-test)
   - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
